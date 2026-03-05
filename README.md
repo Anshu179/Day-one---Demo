@@ -1,2 +1,3 @@
 # Day-one---Demo
-my first git repositry
+This is my first git repository.
+CReator - Priyansh Lakra.
